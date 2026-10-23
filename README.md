@@ -1,4 +1,4 @@
-## Hi, I'm Vasily Adeshkin 👋
+### Hi, I'm Vasily Adeshkin 👋
 
 I'm an ML engineer specializing in **CV** and **low-resource NLP**.
 
@@ -7,7 +7,7 @@ I'm an ML engineer specializing in **CV** and **low-resource NLP**.
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=fjd7AKMAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9659--6942-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9659-6942)
 
-## Projects
+### Projects
 
 - [TranslateKhak](https://adeshkin-translate-khakas.hf.space/)
   - Developed an app that combines dictionary lookup, search through usage examples in a parallel corpus, and text-to-speech for the Khakas language - [code](https://github.com/adeshkin/translate-khakas-hf-space).
@@ -21,7 +21,7 @@ I'm an ML engineer specializing in **CV** and **low-resource NLP**.
   - Created the first Khakas monolingual corpus, containing **258k sentences**. It was used to add Khakas-language support and autocomplete to Yandex Keyboard.
 
 
-## Publications
+### Publications
 
 - [*Occupancy grid generation with dynamic obstacle segmentation in stereo images*](https://doi.org/10.1109/TITS.2021.3133799)
 - [*Roof defect segmentation on aerial images using neural networks*](https://doi.org/10.1007/978-3-030-60577-3_20)
