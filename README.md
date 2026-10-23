@@ -10,8 +10,7 @@ I'm an ML engineer specializing in **CV** and **low-resource NLP**.
 ## Projects
 
 - 🌐 [TranslateKhak](https://adeshkin-translate-khakas.hf.space/)
-  - Developed an app that combines dictionary lookup, search through usage examples in a parallel corpus, and text-to-speech for the Khakas language
-  - 💻 [code](https://github.com/adeshkin/translate-khakas-hf-space)
+  - Developed an app that combines dictionary lookup, search through usage examples in a parallel corpus, and text-to-speech for the Khakas language ([code](https://github.com/adeshkin/translate-khakas-hf-space)).
 - 🤖 [khakas-mt](https://github.com/adeshkin/khakas-mt)
   - Built reproducible training and evaluation pipelines for Khakas ↔ Russian machine translation, including full fine-tuning of NLLB-200 and LoRA fine-tuning of Hy-MT2.
 - 🛠️ [aeronetlib](https://github.com/adeshkin/aeronetlib)
